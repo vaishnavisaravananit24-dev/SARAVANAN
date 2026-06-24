@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Event</title>
+    <link rel="icon" href="vaisgggggg.jpg">
+</head>
+<body bgcolor="black" style="color: aliceblue;">
+    <center>
+        <h1>upcoming Event 🗓️</h1>
+        <p>Don't Miss any of your important events.Here are the important event you have registered for!</p>
+    <hr>
+    </center>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, iure quam minus quaerat, obcaecati porro amet fugit, nemo veritatis nesciunt rem explicabo eaque fuga! Dolor adipisci consectetur unde facere perferendis modi aliquid ab autem voluptates fugit id doloribus deserunt maiores, ipsam repudiandae molestiae dignissimos reprehenderit commodi laboriosam voluptatibus veniam culpa.
+    </p>
+         <center>
+        <img src="event1.png"><br>
+
+        <h1>Photo Gallery Event</h1>
+        <h4>FREE Entry |Free Food| Pet are Not Allowed</h4>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil incidunt aliquam veritatis, labore alias rem ab dolorum molestias. Fuga sed officia quo deleniti neque, recusandae pariatur quibusdam quidem placeat odit. ipsum dolor sit amet consectetur, adipisicing elit. Quos vel quasi quibusdam qui, molestias fugit tempore ea sequi soluta blanditiis iure corrupti libero voluptas placeat quidem eius eos, possimus error!</p>
+        </center>
+        
+        <center>
+              <img src="event2.png">
+            <h1>
+            <a href="https://www.myntra.com/accessories?f=Brand%3ACaprese%3A%3ACategories%3AClutches%2CHandbags%2CWallets%3A%3AGender%3Amen%20women%2Cwomen&rf=Discount%20Range%3A60.0_100.0_60.0%20TO%20100.0">Fastion Store</a>
+        </h1>
+                <h4>FREE Entry |Free Food| Pet are Not Allowed</h4>
+    <p>
+         sit amet consectetur adipisicing elit. Sequi, animi eveniet? Odio eligendi laboriosam ullam sit quod aperiam in maxime impedit repellat? Amet eaque natus ad voluptate laborum aperiam! Maxime!
+    </p>
+    <hr>
+    <h3>Contect</h3>
+    <h4>+ 91 8300815145|eventcollabe@gmail.com</h4>
+<h5> 9th mallappan nagar chennai,632 602</h5>
+</center>
+
+
+   
+    
+  </body>
+</html>
